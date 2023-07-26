@@ -1,0 +1,6 @@
+.DS_Store
+data/*
+results/*
+__pycache__/
+_obsolete/
+_stuff/

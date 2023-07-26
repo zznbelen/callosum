@@ -1,0 +1,9 @@
+sudo
+vim
+pip
+libpng-dev
+gnuplot
+black
+flake8
+imagemagick
+ffmpeg
